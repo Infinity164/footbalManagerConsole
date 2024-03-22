@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{43d5c5ad-ddc5-4ade-a974-5251d27806cc}</ProjectGuid>
+    <ProjectGuid>{ba6a4a5f-6925-4d32-ab55-286345ed4ff5}</ProjectGuid>
     <RootNamespace>FootballManager</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
